@@ -1,5 +1,4 @@
 game.StarterGui:SetCore("SendNotification", {
     Title = "Not in group!";
-    Text =  "Group id: 15047728";
+    Text =  "Group is in the script and in the Github (Dxzni)";
 })
-wait(0.7)
