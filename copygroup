@@ -3,4 +3,4 @@ game.StarterGui:SetCore("SendNotification", {
     Text =  "Link copied to clipboard ";
 })
 wait(0.7)
-    setclipboard("https://www.roblox.com/groups/15047728/Vanity-lua#!/about")
+    setclipboard("https://www.roblox.com/groups/15047728/Vanity-lua")
