@@ -1,6 +1,5 @@
 game.StarterGui:SetCore("SendNotification", {
     Title = "Not in group!";
-    Text =  "Link copied to clipboard ";
+    Text =  "Group id: 15047728";
 })
 wait(0.7)
-    setclipboard("https://www.roblox.com/groups/15047728/Vanity-lua")
